@@ -60,3 +60,6 @@ npm run start
 ## ℹ️ License
 
 This project follows the [MIT](https://github.com/ThiagoAugustoSM/visual-curriculum/blob/main/LICENSE) license.
+
+
+teste
